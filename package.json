@@ -8,12 +8,15 @@
     "step1:convert": "node scripts/01-convert-docs-to-md.js",
     "step2:split": "node scripts/02-split-md-by-regex.js",
     "step3:translate": "node scripts/03-translate-md-with-openai.js",
-    "step4:merge": "node scripts/04-merge-bilingual-md.js"
+    "step4:merge": "node scripts/04-merge-bilingual-md.js",
+    "step5:combine": "node scripts/05-merge-side-by-side-to-full-md.js",
+    "final:pdf": "node scripts/export-full-md-to-pdf.js"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
     "fast-glob": "^3.3.3",
     "mammoth": "^1.9.1",
+    "md-to-pdf": "^5.2.4",
     "openai": "^4.77.0",
     "turndown": "^7.2.0"
   }
