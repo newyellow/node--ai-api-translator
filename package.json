@@ -10,7 +10,8 @@
     "step3:translate": "node scripts/03-translate-md-with-openai.js",
     "step4:merge": "node scripts/04-merge-bilingual-md.js",
     "step5:combine": "node scripts/05-merge-side-by-side-to-full-md.js",
-    "final:pdf": "node scripts/export-full-md-to-pdf.js"
+    "final:pdf": "node scripts/export-full-md-to-pdf.js",
+    "fix:italic": "node scripts/fixes/01-fix-italic-underscore-breaks.js"
   },
   "dependencies": {
     "dotenv": "^16.4.7",

@@ -141,6 +141,28 @@ npm run final:pdf
 
 此步驟使用 `md-to-pdf`，並套用 GitHub Markdown CSS，讓 PDF 視覺盡量貼近 markdown 顯示。
 
+## Fix（可獨立執行）
+
+Fix 腳本直接修改 `scripts/F-combined-md` 裡的檔案，可依需求逐支獨立執行。
+
+### Fix01：修正 `_..._` 斜體被空白/斷行破壞
+
+用途：當內容出現 `_ 內容 \n 續行 _` 這類結構時，移除中間空白與斷行，修正為可生效的斜體標記。
+
+```bash
+npm run fix:italic
+```
+
+預設掃描：
+
+- `scripts/F-combined-md/**/*.md`
+
+可指定單一檔案或其他資料夾：
+
+```bash
+node scripts/fixes/01-fix-italic-underscore-breaks.js --target="scripts/F-combined-md/full-side-by-side.md"
+```
+
 ## 建議執行順序
 
 ```bash

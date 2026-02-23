@@ -35,8 +35,8 @@ function buildBilingualMarkdown(translatedMd, sourceMd) {
       zh,
       '',
       src,
+      '@@linebreak@@',
       '',
-      ''
     ]
       .join('\n')
       .trim();
