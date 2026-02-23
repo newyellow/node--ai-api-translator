@@ -1,0 +1,153 @@
+# △ 區段：畫作
+
+# △ Section: Paintings
+
+\+ 說明  
+_玩家成功消散了殘留的怨氣。_
+
+\+ Explanation  
+_The Player successfully dissipates the lingering resentment._
+
+\+ 互動
+
+\+ Interaction
+
+玩家持續拍攝林輝，直到所有黑色能量消失為止。
+
+The player photographs Lin Hui until all the black energy is gone.
+
+\+ VolCap（動作）
+
+\+ VolCap (Action)
+
+**（養子）** 隨著圍繞林輝的黑暗氣息逐漸消退，他那扭曲且兇猛的模樣恢復平靜。
+
+**(Adopted Son)** As the dark aura surrounding Lin Hui fades, his distorted and savage appearance returns to a state of calm.
+
+\+ VolCap（動作）
+
+\+ VolCap (Action)
+
+**（養子）** 不理會玩家，林輝踉蹌地走回未完成的肖像畫前，繼續描繪林春花的樣貌。
+
+**(Adopted Son)** Ignoring the Player, Lin Hui staggers back to the unfinished portrait and resumes painting Lin Chun-hua's likeness.
+
+\+ 說明  
+_能量封印出現在房間裡其他掛著的空白畫布上。_
+
+\+ Explanation  
+_Energy seals manifest on the other blank canvases hanging around the room.  
+_
+
+\+ 旁白
+
+\+ Voiceover
+
+**（幽靈合唱團）** 封印／打破封印／打開封印
+
+**(Ghost Choir)** Seals / Break the seals / Open the seals
+
+\+ 互動  
+△ 使用相機拍攝畫布後，畫面會出現（無特定順序）：（1）山德的遺照，（2）林文宗手持家族帳冊，交易所標誌部分被手遮擋。這兩幅畫作在故事後期收集標誌時會出現。
+
+\+ Interaction  
+△ After using the camera to photograph the canvases, images appear (in no specific order): (1) a funeral portrait of Shan-de, (2) Lin WenZong holding the family ledger with the Trading Logo partially obscured by his hand. These are the two paintings that appear later in the story when the Logo is being collected.
+
+\+ VolCap（動作）
+
+\+ VolCap (Action)
+
+**（養子）** 兩幅肖像都拍攝完成後，林輝完成了長姐的畫像。只有畫作有所改變。
+
+**(Adopted Son)** Once both portraits have been photographed, Lin Hui finishes his painting of the Eldest Sister. Only the painting has changed.
+
+\+ 旁白
+
+\+ Voiceover
+
+**（兄長）** 尊敬的靈媒，你能看見他正在畫什麼嗎？
+
+**(Brother)** Esteemed medium, can you see what he is painting?
+
+\+ 說明
+
+\+ Explanation
+
+_畫作現在顯示一隻巨大的惡魔盤踞在林家莊園上空。交易所標誌位於畫面一角。_
+
+_The painting now shows a massive demon looming over the Lin Family Estate. The Trading House Logo is in one corner of the picture._
+
+\+ VolCap（動作）
+
+\+ VolCap (Action)
+
+**（養子）** 林輝轉身，將畫筆遞給玩家。
+
+**(Adopted Son)** Lin Hui turns, and hands the paintbrush to the Player.
+
+\+ VolCap（動作）
+
+\+ VolCap (Action)
+
+**（養子）** 玩家接過畫筆後，阿輝轉回頭看著畫作，並保持這個姿勢待機。
+
+**(Adopted Son)** Once the player has the brush, Ah-Hui turns back to look at the painting, and stays, idling in this pose.
+
+\+ 說明  
+_玩家使用畫筆（作為垂直版的自動書寫功能）完成林輝的畫作：在惡魔胸口加上一個洞，並在交易所標誌周圍畫出一個墜飾的輪廓。當玩家完成畫面元素時，林文宗以以下台詞敘述故事。_
+
+\+ Explanation  
+_The Player uses the brush (functioning as a vertical version of automatic writing) to finish Lin Hui’s painting: a hole is added to the demon's chest. The outline of a pendant is drawn around the Trading House Logo. As the player completes elements of the picture, Lin WenZong narrates the story with the following lines._
+
+\+ 旁白
+
+\+ Voiceover
+
+**（兄長）** 三百年前，一位擁有非凡力量的靈媒從惡魔身上取出心臟，封印在一個墜飾中。這墜飾由父傳子，為家族生意帶來了惡魔的幸運。
+
+**(Brother)** Three hundred years ago, a Medium of distinct power took the heart from the demon and sealed it inside a pendant. Passed from father to son, this pendant brought the luck of the demon to the family business.
+
+\+ 旁白
+
+\+ Voiceover
+
+**（兄長）** 但我父親魯莽又貪婪，將墜飾賭了出去。我贏回它，並妥善保管。
+
+**(Brother)** But my father was reckless and greedy, and he gambled the pendant away. I won it back, and kept it safe.
+
+\+ 旁白
+
+\+ Voiceover
+
+**（兄長）** 但惡魔已經逃脫，尋求復仇。它先刺殺了我父親；接著讓我姐姐自盡；然後進入阿輝體內，來找我。
+
+**(Brother)** But the demon had already broken loose and wanted revenge. First it stabbed my father; then it made my sister take her own life; then it went into Ah-Hui and it came looking for me.
+
+\+ 說明  
+_最後一筆完成後，墜飾封印成實體並發光。_
+
+\+ Explanation  
+_As the final stroke is completed, the pendant seals into a solid form and glows.  
+_
+
+\+ 旁白
+
+\+ Voiceover
+
+**（兄長）** 尊敬的靈媒，快將阿輝帶給我。
+
+**(Brother)** Bring Ah-Hui to me, esteemed Medium. Be quick.
+
+\+ 旁白
+
+\+ Voiceover
+
+**（幽靈合唱團）** 相機／捕捉他／帶走他。
+
+**(Ghost Choir)** The camera / Capture him / Take him.
+
+\+ 互動  
+林輝的幽靈成功被捕捉，水晶充能完成。場景轉換至林文宗的靈界－交易所。
+
+\+ Interaction  
+Lin Hui’s ghost is successfully captured and the crystal is fully charged. Scene transition to Lin Wen-zong’s Spirit Realm – The Trading House.

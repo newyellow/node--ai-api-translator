@@ -1,0 +1,20 @@
+{
+  "name": "node-ai-api-translator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Document conversion + OpenAI markdown translation pipeline",
+  "type": "commonjs",
+  "scripts": {
+    "step1:convert": "node scripts/01-convert-docs-to-md.js",
+    "step2:split": "node scripts/02-split-md-by-regex.js",
+    "step3:translate": "node scripts/03-translate-md-with-openai.js",
+    "step4:merge": "node scripts/04-merge-bilingual-md.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "fast-glob": "^3.3.3",
+    "mammoth": "^1.9.1",
+    "openai": "^4.77.0",
+    "turndown": "^7.2.0"
+  }
+}

@@ -1,0 +1,37 @@
+# △ 區段：混沌靈界
+
+# △ Section: Chaos spirit realm
+
++地點
+
++Location
+
+（靈界）一個混亂且黑暗的領域。尖叫、火焰、憤怒、旋轉。對感官的強烈衝擊。
+
+(Spirit Realm) A chaotic and dark realm. Screaming, fire, anger, spinning. Major assault on the senses.
+
+待辦事項：之後處理，因為這部分不需要影片素材
+
+ToDo for later because this doesn’t require film footage
+
+\+ 旁白（動作）
+
+\+ Volcap (Action)
+
+**（兄弟）** 林文宗出現，並伸出手。
+
+**(Brother)** Lin WenZong appears, and holds out his hand.
+
+\+ 旁白（對話）
+
+\+ Volcap (Dialog)
+
+**（兄弟）** 跟我來。這裡不是久留之地！
+
+**(Brother)** Come with me. This is no place to linger!
+
+\+ 互動  
+玩家握住他的手，被帶往繪畫工作室。
+
+\+ Interaction  
+The player takes his hand and is drawn to the Painting Studio.
